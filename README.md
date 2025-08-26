@@ -1,2 +1,3 @@
 # sgpro-mobile-app
-SalesGator Pro Mobile App
+This repo contains the releases for SalesGator Pro Mobile App.
+https://salesgatorpro.com
